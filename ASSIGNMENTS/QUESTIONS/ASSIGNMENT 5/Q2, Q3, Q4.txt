@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/python-loops/problem
+https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
